@@ -1,0 +1,13 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "testdrag.pbl" "";
+@end;
+@begin Objects 
+ "testdrag.sra" "testdrag.pbl";
+ "gf_testdrag_configure_sync.srf" "testdrag.pbl";
+ "gf_testdrag_sync.srf" "testdrag.pbl";
+ "nvo_testdrag_mlsync.sru" "testdrag.pbl";
+ "w_drag1.srw" "testdrag.pbl";
+ "w_testdrag_sync_options.srw" "testdrag.pbl";
+ "w_testdrag_syncprogress.srw" "testdrag.pbl";
+@end;
